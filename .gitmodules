@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:caixin1998/caixin.github.io.git
+	branch = main
